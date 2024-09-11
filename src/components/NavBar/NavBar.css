@@ -1,0 +1,9 @@
+li {
+  list-style: none;
+  margin-right: 1em;
+}
+
+.navbar_left {
+  display: flex;
+  justify-content: left;
+}
