@@ -7,3 +7,27 @@ li {
   display: flex;
   justify-content: left;
 }
+
+.navbar_right {
+  display: flex;
+  margin-left: 70em;
+}
+
+.navbar_container_top {
+  border-bottom: solid black 0.1em;
+}
+
+.bottom_cont {
+  display: flex;
+  border-bottom: solid black 0.1em;
+}
+
+.search {
+  margin-left: 80em;
+  color: red;
+}
+
+.hamburger_menu {
+  color: red;
+  font-size: 33px;
+}
